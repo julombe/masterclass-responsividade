@@ -24,7 +24,7 @@ header .container {
   align-items: center;
   justify-content: space-between;
 
-  width: 100%;
+  width: 90%;
   max-width: 980px;
 
   margin: auto;
@@ -94,7 +94,7 @@ section.hero {
 }
 
 section.hero .container {
-  width: 100%;
+  width: 90%;
   max-width: 980px;
   margin: auto;
 
@@ -118,7 +118,7 @@ main {
 CARDS
 ==================*/
 .cards {
-  width: 100%;
+  width: 90%;
   max-width: 980px;
   margin: auto;
 
@@ -299,7 +299,7 @@ FORM
 }
 
 #form form {
-  width: 100%;
+  width: 90%;
   max-width: 980px;
   background: white;
 
