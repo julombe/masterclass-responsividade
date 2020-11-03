@@ -403,6 +403,18 @@ FORM
     width: 100vw;
     height: 100vh;
 
-    background-color: #7159c1;
+    background-color: #ada1d6;
+
+    z-index: 10;
+  }
+
+  .menu-section.on nav {
+    display: block;
+  }
+
+  .menu-section.on .menu-toggle {
+    position: absolute;
+    right: 0;
+    top: 15px;
   }
 }
