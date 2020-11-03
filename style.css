@@ -427,6 +427,6 @@ FORM
   }
 
   .menu-section.on .menu-toggle .three {
-    transform: rotate(-45deg) translate(8px, -10px);
+    transform: rotate(-45deg) translate(8px, -9px);
   }
 }
