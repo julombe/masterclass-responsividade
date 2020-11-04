@@ -22,10 +22,11 @@ body {
 
 body {
   font-size: 1.6rem;
+  background: #0d0d0f;
 }
 
 header {
-  background-color: #7159c1;
+  background-color: rgb(18, 18, 20);
 }
 
 header .container {
@@ -111,10 +112,15 @@ section.hero .container {
 }
 
 section.hero p {
-  color: rgb(154, 142, 191);
+  /*color: rgb(154, 142, 191);*/
+  color: #a8a8b3;
   font-size: 1.8rem;
   line-height: 3.2rem;
   margin: 10px 0px 0px;
+}
+
+section.hero h2 {
+  color: #e1e1e6;
 }
 
 /*=============== 
@@ -298,7 +304,7 @@ FORM
 #form {
   width: 100%;
 
-  background: #7159c1;
+  background: rgb(18, 18, 20);
   padding: 80px 0;
   margin: 0;
 
