@@ -1,8 +1,8 @@
 # Responsividade 
 
-Fala Dev! 💜
+Olá Dev! 💜
 
-Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
+Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop, ou até mesmo, a impressora sabia.
 
 Na Masterclass de hoje, vamos usar estratégias de CSS Units para que tanto o nosso Layout, quanto os nossos textos, fiquem fluidos. 
 
