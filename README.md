@@ -45,7 +45,7 @@ No HTMl eu coloco a seguinte tag meta
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
-No CSS eu uso da seguinte forma
+No CSS eu uso da seguinte forma:
 
 ```css
 @media (max-width: 320px) {
